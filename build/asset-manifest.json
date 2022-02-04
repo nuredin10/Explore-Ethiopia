@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Explore-Ethiopia/static/css/main.7794bdac.chunk.css",
+    "main.js": "/Explore-Ethiopia/static/js/main.b82db738.chunk.js",
+    "main.js.map": "/Explore-Ethiopia/static/js/main.b82db738.chunk.js.map",
+    "runtime-main.js": "/Explore-Ethiopia/static/js/runtime-main.9212e0b5.js",
+    "runtime-main.js.map": "/Explore-Ethiopia/static/js/runtime-main.9212e0b5.js.map",
+    "static/js/2.c97d6e2e.chunk.js": "/Explore-Ethiopia/static/js/2.c97d6e2e.chunk.js",
+    "static/js/2.c97d6e2e.chunk.js.map": "/Explore-Ethiopia/static/js/2.c97d6e2e.chunk.js.map",
+    "index.html": "/Explore-Ethiopia/index.html",
+    "precache-manifest.b986d5614e1ddf3d9011fc4c73004c36.js": "/Explore-Ethiopia/precache-manifest.b986d5614e1ddf3d9011fc4c73004c36.js",
+    "service-worker.js": "/Explore-Ethiopia/service-worker.js",
+    "static/css/main.7794bdac.chunk.css.map": "/Explore-Ethiopia/static/css/main.7794bdac.chunk.css.map",
+    "static/js/2.c97d6e2e.chunk.js.LICENSE.txt": "/Explore-Ethiopia/static/js/2.c97d6e2e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Explore-Ethiopia/static/media/img-1.cd1d1c97.jpg",
+    "static/media/img-2.jpg": "/Explore-Ethiopia/static/media/img-2.32f85838.jpg",
+    "static/media/img-3.jpg": "/Explore-Ethiopia/static/media/img-3.d361091b.jpg",
+    "static/media/img-4.jpg": "/Explore-Ethiopia/static/media/img-4.873141ee.jpg",
+    "static/media/img-8.jpg": "/Explore-Ethiopia/static/media/img-8.005b2225.jpg",
+    "static/media/img-9.jpg": "/Explore-Ethiopia/static/media/img-9.6ce2be0c.jpg",
+    "static/media/HeroSection.css": "/Explore-Ethiopia/static/media/img-home.07218d3d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9212e0b5.js",
+    "static/js/2.c97d6e2e.chunk.js",
+    "static/css/main.7794bdac.chunk.css",
+    "static/js/main.b82db738.chunk.js"
+  ]
+}
